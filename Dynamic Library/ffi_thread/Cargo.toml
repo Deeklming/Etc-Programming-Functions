@@ -1,0 +1,11 @@
+[package]
+name = "ffi_thread"
+version = "0.1.0"
+authors = ["any"]
+edition = "2018"
+
+[dependencies]
+
+[lib]
+name="ffi_thread"
+crate-type=["dylib"]
