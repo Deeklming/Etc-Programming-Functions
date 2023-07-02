@@ -1,2 +1,2 @@
-# Etc-Programming-Functions
-Etc Programming Functions Study Collection
+# Programming-Functions-Designs
+Programming Functions and Designs Study Collection
